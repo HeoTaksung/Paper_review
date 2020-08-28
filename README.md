@@ -7,6 +7,11 @@
 
 -----------------------------------------------------
 
+### GPT-1.pptx
+  * Radford, A., Narasimhan, K., Salimans, T., Sutskeveret, L. Improving language understanding by generative pre-training." (2018). [[paper]](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
+  
+-----------------------------------------------------
+
 ### LDA.pptx
   * Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent dirichlet allocation. _Journal of machine Learning research_. [[paper]](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
   
